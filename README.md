@@ -1,6 +1,6 @@
 # Reversi-AI-NonDeepLearning
 
-Construct an AI for Reversi using only non-deep learning methods(use alpha betha pruning) that interact with the provided environment (reversi.py, reversi_server.py, greedy_player.py)
+Construct an AI for Reversi using only non-deep learning methods(use alpha betha pruning) that interact with the provided environment (reversi.py, reversi_server.py, greedy_player.py), with the goal of consistently defeating the greedy player, which relies on greedy algorithm techniques.
 
 ## Rules:
 
