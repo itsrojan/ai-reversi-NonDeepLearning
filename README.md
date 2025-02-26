@@ -1,5 +1,9 @@
 # Reversi-AI-NonDeepLearning
 
+(Fall 2024 AI Project 1)
+
+## Description:
+
 Construct an AI for Reversi using only non-deep learning methods(use alpha betha pruning) that interact with the provided environment (reversi.py, reversi_server.py, greedy_player.py), with the goal of consistently defeating the greedy player, which relies on greedy algorithm techniques.
 
 ## Rules:
